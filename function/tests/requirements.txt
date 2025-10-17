@@ -1,0 +1,6 @@
+pytest
+pytest-flask
+pytest-mock
+boto3
+coverage
+flake8

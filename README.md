@@ -1,1 +1,1 @@
-# IH-SearchService-Local
+# IHSearchService
